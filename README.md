@@ -40,6 +40,3 @@ O programa simula três regras de negócio de referência da especificação, us
 
 Usei a IA como apoio para organizar o projeto, esclarecer pontos subentendidos na especificação e revisar o código. As decisões finais e os testes foram feitos por mim.
 
-## Escopo
-
-Ficaram para as próximas entregas as classes de domínio (Livro, Exemplar, Membro, Empréstimo e Reserva), a persistência em banco de dados, a API com Spring Boot e a autenticação. As suposições feitas ao interpretar a especificação estão registradas no PDF da pasta `docs/`.
